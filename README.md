@@ -21,8 +21,8 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
   National Transportation, Planning and Research Institute, Kerala, India - SSN College of Engineering, Chennai, India
 
   **Team Size:** 4  
-  **Role:** Team Lead
-    Summary:  Adopted ML techniques to predict the water discharge in the Thevera – Perandoor canal using a historical rainfall dataset. Leveraged models such as SARIMA, as well as neural networks such as LSTM, SANN and FNN. Prediction until 2030 was proposed via the SANN model, which had the best results in terms of R-squared, NSE, and MAE.
+  **Role:** Team Lead  
+  Summary: Adopted ML techniques to predict the water discharge in the Thevera – Perandoor canal using a historical rainfall dataset. Leveraged models such as SARIMA, as well as neural networks such as LSTM, SANN and FNN. Prediction until 2030 was proposed via the SANN model, which had the best results in terms of R-squared, NSE, and MAE.
 
 - **Mechanical properties of concrete with seashell waste as partial replacement of cement and aggregate**  
   **June 2020 - March 2021**  

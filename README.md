@@ -1,3 +1,8 @@
+**Address:** D-5, Arunalaya Flats, Joseph 2nd Street, Palavanthangal, Chennai-600114, Tamil Nadu, India
+**Email:** prabha07lpm@gmail.com
+**Phone:** +91 9566124655
+**LinkedIn:**[Prabhakaran P](https://www.linkedin.com/in/prabhakaran-p-7b38ab164/)
+
 ## OBJECTIVE
 Data Analyst with 2+ years of professional experience and a strong grasp on core advanced AI and Data Analytics, aiming to pursue an MS in Data Science with specializations in Deep Learning, Visualization, and ML to gain a better understanding of the applications across media performance, marketing analytics domains and later work as a Data Scientist. 
 

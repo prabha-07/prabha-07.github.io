@@ -4,7 +4,7 @@
 **LinkedIn:** [Prabhakaran P](https://www.linkedin.com/in/prabhakaran-p-7b38ab164/)
 
 ## OBJECTIVE
-Data Analyst with 2+ years of professional experience and a strong grasp on core advanced AI and Data Analytics, aiming to pursue an MS in Data Science with specializations in Deep Learning, Visualization, and ML to gain a better understanding of the applications across media performance, marketing analytics domains and later work as a Data Scientist. 
+Data Analyst with 2+ years of professional experience and a strong grasp on core advanced AI and Data Analytics, aiming to pursue an MS in Data Science with specializations in Large Language Models, Deep Learning, Visualization, and ML to gain a better understanding of the applications across media performance, marketing analytics domains and later work as a Data Scientist. 
 
 ---
 
@@ -18,8 +18,8 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
 ## ACADEMIC PROJECTS
 - **Canal Discharge Prediction Using ML and Neural Networks**  
   **January 2022 - June 2022**  
-  National Transportation, Planning and Research Institute, Kerala, India  
-  **Team Size:** 4  
+  National Transportation, Planning and Research Institute, Kerala, India - SSN College of Engineering, Chennai, India
+  **Team Size:** 4
   **Role:** Team Lead  
   Summary: Adopted ML techniques to predict the water discharge in the Thevera – Perandoor canal using a historical rainfall dataset. Leveraged models such as SARIMA, as well as neural networks such as LSTM, SANN and FNN. Prediction until 2030 was proposed via the SANN model, which had the best results in terms of R-squared, NSE, and MAE.
 
@@ -35,11 +35,11 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
 ## WORK EXPERIENCE
 **Analyst, Latent View Analytics Ltd.**, Chennai, Tamil Nadu, India  
 **September 2022 - Present**  
-- Develop and manage comprehensive Power BI and Tableau dashboards from SQL tables to track and analyze marketing campaign performance and paid media trends across various channels using KPIs and other metrics.
-- Case Study on Ad Click Through Rate prediction, by establishing an EDA and building multiple classification and regression models to present the influencing features for increasing CTR based on the best-proven model.
+- Develop and manage comprehensive **Power BI and Tableau dashboards** from SQL tables to track and analyze marketing campaign performance and paid media trends across various channels using KPIs and other metrics.
+- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification and regression models to present the influencing features for increasing CTR based on the best-proven model.[Repo](https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification)
 - Performed A/B testing to understand the audience through results from statistical tests such as Z-test and T-test. Executed ad-hoc analysis to find the root cause of softness in the revenue performance and presented the insights.
 - Enabled revenue generation and optimizations worth $12k in a quarter across different channels by presenting the scope for incremental revenue over the tactics under a campaign.
-- Developed a SQL pipeline to transform raw data through ETL (Extract, Transform, Load) into a unified source and used it to build and update Power BI/Tableau dashboards, which provide insights into the performance of regional and new campaigns and creatives.
+- Developed a **SQL pipeline** to transform raw data through ETL (Extract, Transform, Load) into a unified source and used it to build and update Power BI/Tableau dashboards, which provide insights into the performance of regional and new campaigns and creatives.
 - Automation of Excel report delivery directly through mail to the stakeholder from SQL query in Databricks, automation of several Business-as-Usual reports for auto weekly refresh through ODBC.
 - Dashboard migration from Hive to Databricks for both Power BI and Tableau.
 - Encore award winner in recognition of outstanding performance for Q2 2024.
@@ -58,7 +58,7 @@ Summary: Understood the Sustainable Development Goals (SDG) framework for India 
 - **Environments:** Databricks, Hive, JupyterLab, GitHub, R Studio.
 - **Data Analysis and Viz Tools:** Power BI, Tableau, Adobe Analytics, MS Excel.
 - **Tools:** NVIDIA Solutions
-- **Skills/Knowledge:** AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Piipelines, ETL
+- **Skills/Knowledge:** AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Pipelines, ETL
 
 ---
 
@@ -78,7 +78,7 @@ P. Sangeetha, M. Shanmugapriya, K. Santhosh Saravanan, P. Prabhakaran, V. Shasha
 ## ACHIEVEMENTS & EXTRACURRICULAR
 - Received the **Encore Award** from Latent View Analytics Ltd. for outstanding performance in April-July 2024.
 - Member of **Toastmasters** through a club at Latent View Analytics Ltd. from September 2024.
-- National **Bronze medalist in Powerlifting** conducted by Indian Powerlifting Federation (IPF) and **State gold medalist in Deadlift** conducted by World Powerlifting Congress (WPC) India, in May 2023.
+- **National Bronze medalist** in Powerlifting conducted by Indian Powerlifting Federation (IPF) and **State gold medalist in Deadlift** conducted by World Powerlifting Congress (WPC) India, in May 2023.
 - Active participant in **Corporate Social Responsibility (CSR)** activities at Latent View Analytics Ltd. from October 2022.
 - 1st prize in a **design project competition** conducted by IIT-Patna, Association of Civil Engineers (ACE) in collaboration with Bhojpur District Administration, Bihar, India, in October 2020.
 - Special mention award in **“Revival Design Camp”** conducted by a non-profit organization, Dhan Foundation, in Madurai, Tamil Nadu, India, in January 2020.

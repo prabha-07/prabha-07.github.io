@@ -84,6 +84,7 @@ P. Sangeetha, M. Shanmugapriya, K. Santhosh Saravanan, P. Prabhakaran, V. Shasha
 - Active participant in **Corporate Social Responsibility (CSR)** activities at Latent View Analytics Ltd. from October 2022.
 - 1st prize in a **design project competition** conducted by IIT-Patna, Association of Civil Engineers (ACE) in collaboration with Bhojpur District Administration, Bihar, India, in October 2020.
 - Special mention award in **“Revival Design Camp”** conducted by a non-profit organization, Dhan Foundation, in Madurai, Tamil Nadu, India, in January 2020.
+- Active Model United Nations (MUN) participations during UG in chennai's college circuits.
 
 ---
 

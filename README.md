@@ -59,19 +59,21 @@ Summary: Understood the Sustainable Development Goals (SDG) framework for India 
 - **Programming Languages:** Python, SQL, R.
 - **Environments:** Databricks, Hive, JupyterLab, GitHub, R Studio.
 - **Data Analysis and Viz Tools:** Power BI, Tableau, Adobe Analytics, MS Excel.
+- **Tools:** NVIDIA Solutions
+- **Skills/Knowledge:** AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Piipelines, ETL
 
 ---
 
 ## CERTIFICATIONS
-- **NVIDIA Certified Associate Generative AL LLMs**, by NVIDIA, October 2024
-- **Databricks Certified Data Engineer Associate**, by Azure Databricks, August 2024  
-- **Analytics Bootcamp 101**, by Simplilearn, June 2023  
+- **NVIDIA Certified Associate Generative AL LLMs**, by NVIDIA, October 2024. [View the Certification](https://www.credly.com/badges/e9889fac-2f3f-403c-8e2f-c617a8ec6517/linked_in?t=sm3x3h)
+- **Databricks Certified Data Engineer Associate**, by Azure Databricks, August 2024. [View the Certification](https://credentials.databricks.com/54952903-dcc6-48c9-9e01-53607508b56a)
+- **Analytics Bootcamp 101**, by Simplilearn, June 2023. [View the Certification](https://success.simplilearn.com/815e7ee8-38b6-48f8-823e-18ba3f45c7b2)  
 
 ---
 
 ## PUBLICATION
 P. Sangeetha, M. Shanmugapriya, K. Santhosh Saravanan, P. Prabhakaran, V. Shashankar “Mechanical properties of concrete with seashell waste as partial replacement of cement and aggregate,” *Materials Today: Proceedings*, vol. 61, no. 2, pp. 320-326, May 2022. DOI: 10.1016/j.matpr.2021.09.501. ISSN 2214-7853.
-[Link:](https://www.sciencedirect.com/science/article/abs/pii/S2214785321064208)
+[Read the Publication on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2214785321064208)
 
 ---
 

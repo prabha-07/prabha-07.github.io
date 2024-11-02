@@ -38,7 +38,7 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
 **Analyst, Latent View Analytics Ltd.**, Chennai, Tamil Nadu, India  
 **September 2022 - Present**  
 - Develop and manage comprehensive **Power BI and Tableau** dashboards from SQL tables to track and analyze marketing campaign performance and paid media trends across various channels using KPIs and other metrics.
-- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification and regression models to present the influencing features for increasing CTR based on the best-proven model.[Project Repo](https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification)
+- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification models to present the influencing features for increasing CTR based on the best-proven model.[Project Repo](https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification)
 - Performed **A/B testing** to understand the audience through results from statistical tests such as Z-test and T-test. Executed ad-hoc analysis to find the root cause of softness in the revenue performance and presented the insights.
 - Enabled revenue generation and optimizations worth **$12k** in a quarter across different channels by presenting the scope for incremental revenue over the tactics under a campaign.
 - Developed a **SQL pipeline** to transform raw data through ETL (Extract, Transform, Load) into a unified source and used it to build and update Power BI/Tableau dashboards, which provide insights into the performance of regional and new campaigns and creatives.

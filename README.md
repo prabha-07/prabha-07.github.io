@@ -19,13 +19,15 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
 - **Canal Discharge Prediction Using ML and Neural Networks**  
   **January 2022 - June 2022**  
   National Transportation, Planning and Research Institute, Kerala, India - SSN College of Engineering, Chennai, India
-  **Team Size:** 4
-  **Role:** Team Lead  
-  Summary: Adopted ML techniques to predict the water discharge in the Thevera – Perandoor canal using a historical rainfall dataset. Leveraged models such as SARIMA, as well as neural networks such as LSTM, SANN and FNN. Prediction until 2030 was proposed via the SANN model, which had the best results in terms of R-squared, NSE, and MAE.
+
+  **Team Size:** 4  
+  **Role:** Team Lead
+    Summary:  Adopted ML techniques to predict the water discharge in the Thevera – Perandoor canal using a historical rainfall dataset. Leveraged models such as SARIMA, as well as neural networks such as LSTM, SANN and FNN. Prediction until 2030 was proposed via the SANN model, which had the best results in terms of R-squared, NSE, and MAE.
 
 - **Mechanical properties of concrete with seashell waste as partial replacement of cement and aggregate**  
   **June 2020 - March 2021**  
   SSN College of Engineering, Chennai  
+
   **Team Size:** 5  
   **Role:** Team Member  
   Summary: Made partial replacement of coarse aggregate and cement in the concrete with sea shell aggregate and powder correspondingly and studied the compressive, split tensile and flexural strength. Demonstrated proven results to recommend 5% seashell powder and 10% seashell aggregate as the optimum percentage of replacement in the concrete.
@@ -36,7 +38,7 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
 **Analyst, Latent View Analytics Ltd.**, Chennai, Tamil Nadu, India  
 **September 2022 - Present**  
 - Develop and manage comprehensive **Power BI and Tableau dashboards** from SQL tables to track and analyze marketing campaign performance and paid media trends across various channels using KPIs and other metrics.
-- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification and regression models to present the influencing features for increasing CTR based on the best-proven model.[Repo](https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification)
+- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification and regression models to present the influencing features for increasing CTR based on the best-proven model.[Project Repo](https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification)
 - Performed A/B testing to understand the audience through results from statistical tests such as Z-test and T-test. Executed ad-hoc analysis to find the root cause of softness in the revenue performance and presented the insights.
 - Enabled revenue generation and optimizations worth $12k in a quarter across different channels by presenting the scope for incremental revenue over the tactics under a campaign.
 - Developed a **SQL pipeline** to transform raw data through ETL (Extract, Transform, Load) into a unified source and used it to build and update Power BI/Tableau dashboards, which provide insights into the performance of regional and new campaigns and creatives.

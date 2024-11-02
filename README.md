@@ -94,6 +94,6 @@ P. Sangeetha, M. Shanmugapriya, K. Santhosh Saravanan, P. Prabhakaran, V. Shasha
 ---
 
 ## COMMUNITY INVOLVEMENT
-- Involved in local **lake cleaning activity** at Porur Lake, Chennai, India, as a part of Youth Red Cross (YRC) activity August 2019.
+- Involved in local lake cleaning activity at Porur Lake, Chennai, India, as a part of **Youth Red Cross (YRC)** activity August 2019.
 - Part of the **National Service Scheme (NSS)**, and volunteered for the 2019 Indian General Elections as a booth officer in April 2019.
 - An active volunteer in activities conducted by the Youth Red Cross (YRC) and National Service Scheme (NSS) from 2019 to 2022.

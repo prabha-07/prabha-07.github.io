@@ -67,7 +67,6 @@ Summary: Understood the Sustainable Development Goals (SDG) framework for India 
 ## CERTIFICATIONS
 - **NVIDIA Certified Associate Generative AL LLMs**, by NVIDIA, October 2024. [View the Certification](https://www.credly.com/badges/e9889fac-2f3f-403c-8e2f-c617a8ec6517/linked_in?t=sm3x3h)
 - **Databricks Certified Data Engineer Associate**, by Azure Databricks, August 2024. [View the Certification](https://credentials.databricks.com/54952903-dcc6-48c9-9e01-53607508b56a)
-- **Analytics Bootcamp 101**, by Simplilearn, June 2023. [View the Certification](https://success.simplilearn.com/815e7ee8-38b6-48f8-823e-18ba3f45c7b2)  
 
 ---
 

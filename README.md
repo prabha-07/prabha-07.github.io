@@ -4,14 +4,14 @@
 **LinkedIn:** [Prabhakaran P](https://www.linkedin.com/in/prabhakaran-p-7b38ab164/)
 
 ## OBJECTIVE
-Data Analyst with 2+ years of professional experience and a strong grasp on core advanced AI and Data Analytics, aiming to pursue an MS in Data Science with specializations in Large Language Models, Deep Learning, Visualization, and ML to gain a better understanding of the applications across media performance, marketing analytics domains and later work as a Data Scientist. 
+Data Analyst with 2+ years of professional experience and a strong grasp on core advanced AI and Data Analytics, aiming to pursue an MS in Data Science with specializations in Large Language Models, Deep Learning, Visualization, and ML to gain a better understanding of the applications across media performance, marketing analytics or any cross-domain areas and later work as a Data Scientist. 
 
 ---
 
 ## ACADEMIC QUALIFICATION
 **Bachelor of Engineering in Civil Engineering**  
 **CGPA:** 8.2/10 (2018-2022)  
-SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India  
+Sri Sivasubramaniya Nadar College of Engineering (SSN) - Anna University, Chennai, Tamil Nadu, India  
 
 ---
 
@@ -38,7 +38,7 @@ SSN College of Engineering (Anna University), Chennai, Tamil Nadu, India
 **Analyst, Latent View Analytics Ltd.**, Chennai, Tamil Nadu, India  
 **September 2022 - Present**  
 - Develop and manage comprehensive **Power BI and Tableau** dashboards from SQL tables to track and analyze marketing campaign performance and paid media trends across various channels using KPIs and other metrics.
-- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification models to present the influencing features for increasing CTR based on the best-proven model.[Project Repo](https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification)
+- Case Study on **Ad Click Through Rate prediction**, by establishing an EDA and building multiple classification models to present the influencing features for increasing CTR based on the best-proven model.
 - Performed **A/B testing** to understand the audience through results from statistical tests such as Z-test and T-test. Executed ad-hoc analysis to find the root cause of softness in the revenue performance and presented the insights.
 - Enabled revenue generation and optimizations worth **$12k** in a quarter across different channels by presenting the scope for incremental revenue over the tactics under a campaign.
 - Developed a **SQL pipeline** to transform raw data through ETL (Extract, Transform, Load) into a unified source and used it to build and update Power BI/Tableau dashboards, which provide insights into the performance of regional and new campaigns and creatives.
@@ -60,7 +60,7 @@ Summary: Understood the Sustainable Development Goals (SDG) framework for India 
 - **Environments:** Databricks, Hive, JupyterLab, GitHub, R Studio.
 - **Data Analysis and Viz Tools:** Power BI, Tableau, Adobe Analytics, MS Excel.
 - **Tools:** NVIDIA Solutions
-- **Skills/Knowledge:** AI, LLMs, NVIDIA Generative AI, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Pipelines, ETL
+- **Skills/Knowledge:** AI, LLMs, NVIDIA Generative AI, PySpark, Spark SQL, Apache Spark, Delta Lake, Lakehouse, Delta Live Tables, Data Pipelines, ETL
 
 ---
 

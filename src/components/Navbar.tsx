@@ -27,7 +27,7 @@ export const Navbar = () => {
               </a>
             ))}
             <Button className="bg-primary text-primary-foreground hover:bg-primary/90 px-5 py-2 text-sm font-medium rounded-full" asChild>
-              <a href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_697d319931e71df554b3a07d/d055c155f_Resume-PrabhakaranPalanimuthu.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+              <a href="/Resume-Prabhakaran-Palanimuthu.pdf" download="Resume-Prabhakaran-Palanimuthu.pdf">Resume</a>
             </Button>
           </div>
         </div>

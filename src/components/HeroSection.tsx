@@ -71,7 +71,7 @@ export const HeroSection = () => {
             </a>
           </Button>
           <Button variant="outline" className="px-8 py-6 text-base rounded-full border-border/50 hover:border-primary/50 hover:text-primary" asChild>
-            <a href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/user_697d319931e71df554b3a07d/d055c155f_Resume-PrabhakaranPalanimuthu.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Resume-Prabhakaran-Palanimuthu.pdf" download="Resume-Prabhakaran-Palanimuthu.pdf">
               Download Resume
             </a>
           </Button>

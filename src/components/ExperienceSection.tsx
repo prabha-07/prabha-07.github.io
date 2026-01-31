@@ -1,23 +1,27 @@
-import { Award } from "lucide-react";
+import { LayoutDashboard, TrendingUp, Database, Zap } from "lucide-react";
 
 export const ExperienceSection = () => {
   const achievements = [
     {
+      icon: LayoutDashboard,
       title: "Dashboard Development",
       description: "Built comprehensive Power BI and Tableau dashboards to track marketing campaign performance across channels",
       metric: "10% weekly optimization",
     },
     {
+      icon: TrendingUp,
       title: "Revenue Growth",
       description: "Performed A/B and Hypothesis testing to compare campaigns through Z-test and T-test statistical analysis",
       metric: "20% YoY growth",
     },
     {
+      icon: Database,
       title: "Data Pipeline Development",
       description: "Developed SQL pipelines in Databricks using PySpark and Spark SQL for ETL transformations",
       metric: "Full Funnel insights",
     },
     {
+      icon: Zap,
       title: "Process Automation",
       description: "Automated Excel report delivery and Business-as-Usual reports through ODBC integration",
       metric: "2 hrs/day saved",
@@ -48,20 +52,29 @@ export const ExperienceSection = () => {
                 <span>Sep 2022 – Jul 2025</span>
                 <span>•</span>
                 <span>Chennai, India</span>
-                <span className="tag">Marketing Analytics</span>
               </div>
 
               <div className="grid md:grid-cols-2 gap-4">
-                {achievements.map((achievement) => (
-                  <div
-                    key={achievement.title}
-                    className="bg-card rounded-xl border border-border p-5 card-hover"
-                  >
-                    <h4 className="font-semibold mb-2">{achievement.title}</h4>
-                    <p className="text-sm text-muted-foreground mb-3">{achievement.description}</p>
-                    <span className="tag tag-accent">{achievement.metric}</span>
-                  </div>
-                ))}
+                {achievements.map((achievement) => {
+                  const Icon = achievement.icon;
+                  return (
+                    <div
+                      key={achievement.title}
+                      className="bg-card rounded-xl border border-border p-5 card-hover"
+                    >
+                      <div className="flex items-start gap-3">
+                        <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-primary/10 border border-primary/20 flex items-center justify-center">
+                          <Icon className="w-5 h-5 text-primary" />
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <h4 className="font-semibold mb-2">{achievement.title}</h4>
+                          <p className="text-sm text-muted-foreground mb-3">{achievement.description}</p>
+                          <span className="tag tag-accent">{achievement.metric}</span>
+                        </div>
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
 
               {/* Award */}

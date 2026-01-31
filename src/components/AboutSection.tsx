@@ -25,7 +25,7 @@ export const AboutSection = () => {
               At LatentView Analytics, I specialized in marketing analytics, developing comprehensive dashboards in Power BI and Tableau, conducting root-cause analyses, and building ML models that drove significant business outcomes including 20% YoY revenue growth and 2+ hours daily time savings through automation.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              My expertise spans Machine Learning, Generative AI, LLMs, and data engineering with tools like Databricks, PySpark, and SQL. I'm passionate about building intelligent systems that solve real-world problems.
+              My expertise spans Machine Learning, Generative AI, LLMs, and data engineering with tools like Databricks and SQL. I'm passionate about turning data into real-world impact through robust analytics and automation.
             </p>
           </div>
 

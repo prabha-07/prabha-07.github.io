@@ -5,19 +5,24 @@ const testimonials = [
     initials: "AD",
     name: "Akshay Durugkar",
     title: "EMEA Lead Marketing Analyst at Adobe",
-    quote: "I had the pleasure of working with Prabhakaran during his time as a Data Analyst on my team. He quickly proved himself to be a highly dedicated and reliable professional. His strong work ethic was evident in the way he approached every task with focus and commitment. One of his standout qualities was his ability to identify bottlenecks independently. Rather than waiting for direction, he would proactively explore solutions and return with clear recommendations.",
+    quote: "I had the pleasure of working with Prabhakaran during his time as a Data Analyst on my team.
+He quickly proved himself to be a highly dedicated and reliable professional.His strong work ethic was evident in the way he approached every task with focus and commitment. One of his standout qualities was his ability to identify bottlenecks independently.Rather than waiting for direction, he would proactively explore solutions and return with clear recommendations.This problem-solving mindset added immense value to the team and kept projects moving smoothly.He was meticulous in analyzing complex datasets and translating them into actionable insights.His hard-working nature and self-driven approach inspired confidence across the team.
+Prabhakaran is someone you can always count on to deliver results under pressure.I would strongly recommend him to any organization looking for a skilled, dependable, and solutions-oriented Data Analyst.",
   },
   {
     initials: "AK",
     name: "Akshaya Kannan",
     title: "Assistant Manager at LatentView Analytics Ltd.",
-    quote: "I had the privilege of working with Prabhakaran, and he stands out as a highly skilled professional with strong expertise in SQL, Power BI and Python. With close to 3 years of experience, he has consistently delivered impactful solutions that have directly contributed to client business growth. His balance of hard work and smart work, along with his willingness to share knowledge makes him exceptional.",
+    quote: "I had the privilege of working with Prabhakaran, and he stands out as a highly skilled professional with strong expertise in SQL, Power BI and Python. With close to 3 years of experience, he has consistently delivered impactful solutions that have directly contributed to client business growth. 
+      His ability to go beyond deliverables, coupled with the recognition he has earned from stakeholders, makes him a true go-to person in the team.What makes him exceptional is his balance of hard work and smart work, along with his willingness to share knowledge. 
+      In a short span of his career, he has successfully trained and mentored the entire team, raising the overall capability. I highly recommend him for any opportunity that demands technical excellence, business impact, and leadership potential.",
   },
   {
     initials: "PV",
     name: "Praveen Kumar Vadicharla",
     title: "Assistant Manager at LatentView Analytics Ltd.",
-    quote: "I had the pleasure of managing Prabakaran at LatentView Analytics, and he consistently demonstrated exceptional dedication and commitment to his work. He is highly dependable, always willing to go the extra mile, and readily supports team members whenever needed. His strong ownership mindset and attention to detail earned him high appreciation from clients.",
+    quote: "I had the pleasure of managing Prabhakaran at LatentView Analytics, and he consistently demonstrated exceptional dedication and commitment to his work. He is highly dependable, always willing to go the extra mile, and readily supports team members whenever needed. His strong ownership mindset and attention to detail earned him high appreciation from clients, who truly valued the quality and impact of his contributions. 
+      Prabhakaran would be a valuable asset to any team he works with.",
   },
 ];
 

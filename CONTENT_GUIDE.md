@@ -11,8 +11,20 @@ This guide shows where to find and how to edit text content on your portfolio we
    ```bash
    npm run build
    cp -r dist/* docs/
+   cp dist/index.html index.html && cp -r dist/assets . && cp dist/Resume*.pdf .
    git add . && git commit -m "Update content" && git push
    ```
+
+---
+
+## Local Development
+
+The root `index.html` is the built version (for the live site). For local dev with hot reload, run:
+```bash
+cp index.dev.html index.html
+npm run dev
+```
+(Don't commit this change — it's only for local development.)
 
 ---
 

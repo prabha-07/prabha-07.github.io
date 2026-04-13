@@ -32,6 +32,20 @@ const projects = [
     link: "https://github.com/prabha-07/Canal-Discharge-Prediction-using-SARIMA-LSTM-FNN-SANN",
   },
   {
+    title: "Data Engineering with Snowflake Notebooks",
+    description:
+      "End-to-end walkthrough from Snowflake’s data engineering quickstart—building pipelines in Snowflake notebooks from the official demo repository.",
+    tags: ["Snowflake", "Data Engineering", "SQL", "Notebooks"],
+    link: "https://github.com/prabha-07/sfguide-data-engineering-with-notebooks",
+  },
+  {
+    title: "Mobile Ad Click Prediction (CTR case study)",
+    description:
+      "Exploratory analysis and classification models to understand drivers of ad click-through rate and support campaign optimization.",
+    tags: ["Classification", "EDA", "Marketing Analytics", "Python"],
+    link: "https://github.com/prabha-07/Mobile-Ad-Click-Prediction-Classification",
+  },
+  {
     title: "LLMs Local Ecosystem Research",
     description: "Ongoing research project exploring fine-tuning of LLMs as a local ecosystem, associated with faculty from Indiana University's Kelley School of Business.",
     tags: ["LLMs", "Fine-tuning", "Generative AI", "Research"],

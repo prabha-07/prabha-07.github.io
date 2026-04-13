@@ -1,29 +1,38 @@
-import { LayoutDashboard, TrendingUp, Database, Zap } from "lucide-react";
+import { LayoutDashboard, TrendingUp, Database, Zap, BrainCircuit } from "lucide-react";
 
 export const ExperienceSection = () => {
   const achievements = [
     {
       icon: LayoutDashboard,
       title: "Dashboard Development",
-      description: "Built comprehensive Power BI and Tableau dashboards to track marketing campaign performance across channels",
+      description:
+        "Built Power BI and Tableau dashboards from SQL sources for marketing performance, paid media, and Search—using KPIs including media attribution—to support weekly optimizations tied to roughly 10% of weekly revenue.",
       metric: "10% weekly optimization",
+    },
+    {
+      icon: BrainCircuit,
+      title: "ML & root-cause analytics",
+      description:
+        "Case study on ad click-through rate with EDA and classification models; root-cause analysis on revenue dips in Databricks SQL surfaced pricing inconsistencies that informed targeted adjustments.",
+      metric: "CTR insights + revenue stability",
     },
     {
       icon: TrendingUp,
       title: "Revenue Growth",
-      description: "Performed A/B and Hypothesis testing to compare campaigns through Z-test and T-test statistical analysis",
+      description: "Performed A/B and hypothesis testing (Z-test, T-test) on campaigns and tactics, including a seasonal offer window",
       metric: "20% YoY growth",
     },
     {
       icon: Database,
       title: "Data Pipeline Development",
-      description: "Developed SQL pipelines in Databricks using PySpark and Spark SQL for ETL transformations",
+      description:
+        "SQL pipelines in Databricks with PySpark and Spark SQL for ETL; weekly R reporting; migration from Hive to Databricks for Power BI and Tableau sources",
       metric: "Full Funnel insights",
     },
     {
       icon: Zap,
       title: "Process Automation",
-      description: "Automated Excel report delivery and Business-as-Usual reports through ODBC integration",
+      description: "Automated Excel report delivery from Databricks SQL to stakeholders; weekly BAU reports via ODBC refresh",
       metric: "2 hrs/day saved",
     },
   ];
@@ -54,7 +63,7 @@ export const ExperienceSection = () => {
                 <span>Chennai, India</span>
               </div>
 
-              <div className="grid md:grid-cols-2 gap-4">
+              <div className="grid md:grid-cols-2 gap-4 lg:grid-cols-3">
                 {achievements.map((achievement) => {
                   const Icon = achievement.icon;
                   return (

@@ -48,7 +48,7 @@ export const ContactSection = () => {
             </div>
             <div>
               <p className="font-medium">Location</p>
-              <p className="text-sm text-muted-foreground">Bloomington, Indiana</p>
+              <p className="text-sm text-muted-foreground">Bloomington, Indiana (willing to relocate)</p>
             </div>
           </div>
 

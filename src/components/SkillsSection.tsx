@@ -1,3 +1,7 @@
+import { ExternalLink } from "lucide-react";
+
+import { BI_PORTFOLIO_LINKS } from "@/config/portfolioLinks";
+
 const skillCategories = [
   {
     title: "Languages",
@@ -5,7 +9,14 @@ const skillCategories = [
   },
   {
     title: "Data & BI Tools",
-    skills: ["Power BI", "Tableau", "Adobe Analytics", "MS Excel"],
+    skills: [
+      "Power BI",
+      "Tableau",
+      "DAX",
+      "Power Query",
+      "Adobe Analytics",
+      "MS Excel",
+    ],
   },
   {
     title: "Data Engineering",
@@ -20,8 +31,30 @@ const skillCategories = [
     skills: ["Azure Blob Storage", "Delta Live Tables", "Lakehouse"],
   },
   {
+    title: "Concepts & analytics",
+    skills: [
+      "Apache Spark",
+      "Data Pipelines",
+      "ETL",
+      "Data Visualization",
+      "Business Intelligence",
+      "Dashboard Development",
+      "Excel VBA",
+    ],
+  },
+  {
     title: "Development Tools",
-    skills: ["JupyterLab", "VS Code", "GitHub", "Google Colab", "LM Studio", "Ollama"],
+    skills: [
+      "JupyterLab",
+      "VS Code",
+      "GitHub",
+      "Google Colab",
+      "LM Studio",
+      "Anything LLM",
+      "Ollama",
+      "MS Word",
+      "MS PowerPoint",
+    ],
   },
 ];
 
@@ -30,13 +63,13 @@ const certifications = [
     initial: "D",
     title: "Databricks Certified Data Engineer Associate",
     issuer: "Azure Databricks · August 2024",
-    link: "https://credentials.databricks.com/12345",
+    link: "https://www.databricks.com/learn/certification/data-engineer-associate",
   },
   {
     initial: "N",
     title: "NVIDIA Certified Associate Generative AI LLMs",
     issuer: "NVIDIA · October 2024",
-    link: "https://www.nvidia.com/certifications",
+    link: "https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/",
   },
 ];
 
@@ -50,9 +83,34 @@ export const SkillsSection = () => {
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">
           My Tech <span className="text-gradient">Stack</span>
         </h2>
-        <p className="text-center text-muted-foreground mb-16 max-w-2xl mx-auto">
+        <p className="text-center text-muted-foreground mb-8 max-w-2xl mx-auto">
           Tools and technologies I work with to turn data into actionable insights
         </p>
+
+        <div className="max-w-2xl mx-auto mb-16 text-center">
+          <h3 className="text-lg font-semibold mb-2">BI demo links</h3>
+          <p className="text-sm text-muted-foreground mb-4">
+            Public Tableau work and an interactive Power BI sample (Microsoft-hosted) that reflects common enterprise dashboard patterns.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3 justify-center items-stretch sm:items-center">
+            <a
+              href={BI_PORTFOLIO_LINKS.tableauPublicVizzes}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 rounded-xl border border-border bg-card px-5 py-3 text-sm font-medium card-hover"
+            >
+              Tableau Public <ExternalLink className="w-4 h-4 opacity-70" />
+            </a>
+            <a
+              href={BI_PORTFOLIO_LINKS.powerBiInteractiveSample}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 rounded-xl border border-border bg-card px-5 py-3 text-sm font-medium card-hover"
+            >
+              Power BI (interactive sample) <ExternalLink className="w-4 h-4 opacity-70" />
+            </a>
+          </div>
+        </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-16">
           {skillCategories.map((category) => (

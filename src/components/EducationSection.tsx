@@ -6,7 +6,7 @@ const education = [
     period: "Aug 2025 - May 2027",
     gpa: "4.0 / 4.0",
     current: true,
-    courses: ["Intro to Statistics", "Applied ML", "Applied Database Technologies", "GenAI 101", "Fund & App of LLMs", "Usable AI"],
+    courses: ["Intro to Stats", "Applied ML", "Applied Database Technologies", "GenAI 101", "Fund & App of LLMs", "Usable AI"],
   },
   {
     school: "Anna University (SSN College of Engineering)",

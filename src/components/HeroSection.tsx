@@ -24,12 +24,12 @@ export const HeroSection = () => {
 
         {/* Title */}
         <p className="text-xl md:text-2xl text-muted-foreground mb-5 animate-fade-in-up font-medium" style={{ animationDelay: "0.3s" }}>
-          Data Scientist & Analytics Engineer
+          Analytics Engineer
         </p>
 
         {/* Description */}
         <p className="max-w-2xl mx-auto text-muted-foreground/80 mb-10 animate-fade-in-up leading-relaxed" style={{ animationDelay: "0.4s" }}>
-          Enabling realized impact across enterprise-scale projects through data analytics, machine learning, and AI-driven solutions
+          3+ years enabling realized impact across enterprise-scale projects through data analytics, machine learning, and AI-driven solutions
         </p>
 
         {/* Social links */}

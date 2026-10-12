@@ -2,6 +2,13 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
+    title: "Agentic AI Compliance Auditing",
+    description:
+      "Adversarial multi-agent debate (Advocate–Challenger–Arbiter) with Retrieval Augmented Generation (RAG) for compliance auditing, improving audit classification performance by +22 F1 points over single-agent baselines.",
+    tags: ["Agentic AI", "RAG", "LLMs", "Multi-agent"],
+    link: "https://github.com/prabha-07/Agentic_Audit",
+  },
+  {
     title: "Fourier Sine Wave Visualizer",
     description: "Browser-based visualizer that performs Fourier Transform on audio files using Python (Flask + librosa + scipy), then animates individual sine wave components in sync with playback.",
     tags: ["Python", "Flask", "JavaScript", "Signal Processing"],
@@ -65,7 +72,7 @@ export const ProjectsSection = () => {
           Things I've <span className="text-gradient">Built</span>
         </h2>
         <p className="text-center text-muted-foreground mb-16 max-w-2xl mx-auto">
-          A selection of projects showcasing my expertise in machine learning and data analysis
+          A selection of projects showcasing my expertise in agentic AI, machine learning, and data engineering
         </p>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">

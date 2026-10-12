@@ -1,9 +1,9 @@
 export const AboutSection = () => {
   const stats = [
-    { number: "3", label: "Years Experience" },
+    { number: "3+", label: "Years Experience" },
     { number: "15+", label: "Projects Delivered" },
     { number: "2", label: "Certifications" },
-    { number: "4.0", label: "GPA (MS)" },
+    { number: "3.9", label: "GPA (MS)" },
   ];
 
   return (
@@ -19,13 +19,13 @@ export const AboutSection = () => {
         <div className="max-w-4xl mx-auto">
           <div className="bg-card rounded-2xl border border-border p-8 md:p-12 mb-12">
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm an analytics engineer with close to three years' experience in enabling realized impact across projects at enterprise scale. Currently pursuing my Master's in Data Science at Indiana University Bloomington with a perfect 4.0 GPA.
+              I'm an analytics engineer with 3+ years of experience enabling realized impact across projects at enterprise scale. I'm currently pursuing my Master's in Data Science at Indiana University Bloomington (CGPA 3.9/4.0) and working as a Student Worker in IT Analytics at Viatris.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              At LatentView Analytics, I specialized in marketing analytics, developing comprehensive dashboards in Power BI and Tableau, conducting root-cause analyses, and building ML models that drove significant business outcomes including 20% YoY revenue growth and 2+ hours daily time savings through automation.
+              At Viatris I built an AI agentic Proof of Concept in Azure Synapse to replicate a SAP extractor and am integrating it into the existing Synapse pipeline for data migration. Previously at LatentView Analytics, I specialized in marketing analytics—Power BI and Tableau dashboards, root-cause analyses, and ML models that supported 20% YoY revenue growth and 2+ hours of daily time savings through automation.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              My expertise spans Machine Learning, Generative AI, LLMs, and data engineering with tools like Databricks and SQL. I'm passionate about turning data into real-world impact through robust analytics and automation. Outside of project work, I've been active in Toastmasters and CSR initiatives at LatentView.
+              My expertise spans Machine Learning, Generative AI, LLMs, Agentic AI, and data engineering with Databricks, Azure Synapse, and SQL. I'm passionate about turning data into real-world impact through robust analytics and automation. Outside of project work, I've been active in Toastmasters and CSR initiatives at LatentView.
             </p>
           </div>
 

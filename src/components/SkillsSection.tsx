@@ -20,7 +20,7 @@ const skillCategories = [
   },
   {
     title: "Data Engineering",
-    skills: ["Databricks", "PySpark", "Spark SQL", "Hive", "Snowflake", "Delta Lake"],
+    skills: ["Databricks", "PySpark", "Spark SQL", "Hive", "Snowflake", "Delta Lake", "Azure Synapse"],
   },
   {
     title: "AI & ML",

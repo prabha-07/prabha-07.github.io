@@ -65,7 +65,7 @@ export const ContactSection = () => {
                 GitHub
               </a>
               <a
-                href="https://www.linkedin.com/in/prabhakaran-p-7b38ab164/"
+                href="https://www.linkedin.com/in/prabhakaran-palanimuthu-7b38ab164/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-secondary/50 rounded-lg border border-border text-sm hover:border-primary transition-colors"

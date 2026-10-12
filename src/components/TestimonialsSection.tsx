@@ -39,7 +39,7 @@ export const TestimonialsSection = () => {
         </p>
         <div className="text-center mb-12">
           <a
-            href="https://www.linkedin.com/in/prabhakaran-p-7b38ab164/details/recommendations/"
+            href="https://www.linkedin.com/in/prabhakaran-palanimuthu-7b38ab164/details/recommendations/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary hover:underline text-sm"

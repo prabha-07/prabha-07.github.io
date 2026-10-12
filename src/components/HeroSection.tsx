@@ -24,12 +24,12 @@ export const HeroSection = () => {
 
         {/* Title */}
         <p className="text-xl md:text-2xl text-muted-foreground mb-5 animate-fade-in-up font-medium" style={{ animationDelay: "0.3s" }}>
-          Analytics Engineer
+          Data & Analytics Engineer
         </p>
 
         {/* Description */}
         <p className="max-w-2xl mx-auto text-muted-foreground/80 mb-10 animate-fade-in-up leading-relaxed" style={{ animationDelay: "0.4s" }}>
-          3+ years enabling realized impact across enterprise-scale projects through data analytics, machine learning, and AI-driven solutions
+          3+ years of experience in enabling realized impact across projects at enterprise scale.
         </p>
 
         {/* Social links */}
@@ -43,7 +43,7 @@ export const HeroSection = () => {
             <Github className="w-5 h-5" />
           </a>
           <a
-            href="https://www.linkedin.com/in/prabhakaran-p-7b38ab164/"
+            href="https://www.linkedin.com/in/prabhakaran-palanimuthu-7b38ab164/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-12 h-12 rounded-full bg-secondary/30 border border-border/50 flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/50 hover:bg-secondary/50 transition-all duration-300"

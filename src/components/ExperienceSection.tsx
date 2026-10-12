@@ -95,11 +95,24 @@ export const ExperienceSection = () => {
           Where I've Made <span className="text-gradient">Impact</span>
         </h2>
 
-        <div className="max-w-4xl mx-auto space-y-12">
-          {jobs.map((job) => (
-            <div key={`${job.company}-${job.title}`} className="relative pl-8 md:pl-12 border-l-2 border-border">
-              <div className="absolute left-0 top-0 -translate-x-1/2">
-                <div className="timeline-dot" />
+        <div className="max-w-4xl mx-auto relative">
+          <div
+            aria-hidden
+            className="experience-rail pointer-events-none absolute top-1.5 bottom-1.5 left-[5px] w-0.5 rounded-full"
+          />
+          <div className="space-y-12">
+          {jobs.map((job, index) => (
+            <div key={`${job.company}-${job.title}`} className="relative pl-8 md:pl-12">
+              <div className="absolute left-[5px] top-1.5 -translate-x-1/2">
+                <div
+                  className={
+                    index === 0
+                      ? "timeline-dot timeline-dot-latest"
+                      : index === 1
+                        ? "timeline-dot timeline-dot-mid"
+                        : "timeline-dot"
+                  }
+                />
               </div>
 
               <div>
@@ -161,6 +174,7 @@ export const ExperienceSection = () => {
               </div>
             </div>
           ))}
+          </div>
         </div>
       </div>
     </section>
